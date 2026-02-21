@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "opsbox"
+version = "0.1.0"
+description = "DevOps-style CLI tool for health checks and log analysis"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "psutil>=5.9"
+]
+
+[project.scripts]
+opsbox = "opsbox.cli:main"
