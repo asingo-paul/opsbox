@@ -1,23 +1,16 @@
-`https://github.com/asingo-paul/opsbox`
-global `opsbox` command usage
-GitHub badges included
-open-source tone
-contributor-friendly
-professional DevOps project presentation
 
 ```md
 # opsbox
 
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![CLI Tool](https://img.shields.io/badge/type-CLI%20Tool-black)
-![DevOps](https://img.shields.io/badge/category-DevOps-orange)
-![License](https://img.shields.io/github/license/asingo-paul/opsbox)
-![Stars](https://img.shields.io/github/stars/asingo-paul/opsbox?style=social)
-![Issues](https://img.shields.io/github/issues/asingo-paul/opsbox)
-![Last Commit](https://img.shields.io/github/last-commit/asingo-paul/opsbox)
-![Repo Size](https://img.shields.io/github/repo-size/asingo-paul/opsbox)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
-
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/github/license/asingo-paul/opsbox)](https://github.com/asingo-paul/opsbox/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/asingo-paul/opsbox?style=social)](https://github.com/asingo-paul/opsbox/stargazers)
+[![Issues](https://img.shields.io/github/issues/asingo-paul/opsbox)](https://github.com/asingo-paul/opsbox/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/asingo-paul/opsbox)](https://github.com/asingo-paul/opsbox/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/asingo-paul/opsbox)](https://github.com/asingo-paul/opsbox)
+[![CLI Tool](https://img.shields.io/badge/type-CLI%20Tool-black)](https://github.com/asingo-paul/opsbox)
+[![DevOps](https://img.shields.io/badge/category-DevOps-orange)](https://github.com/topics/devops)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)](https://opensource.org/)
 ---
 
 🧰 **opsbox** is an open-source DevOps CLI tool that provides instant server health insights and log analysis using a single command.
