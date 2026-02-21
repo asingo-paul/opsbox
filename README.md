@@ -1,5 +1,4 @@
 
-```md
 # opsbox
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
@@ -11,7 +10,7 @@
 [![CLI Tool](https://img.shields.io/badge/type-CLI%20Tool-black)](https://github.com/asingo-paul/opsbox)
 [![DevOps](https://img.shields.io/badge/category-DevOps-orange)](https://github.com/topics/devops)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)](https://opensource.org/)
----
+
 
 🧰 **opsbox** is an open-source DevOps CLI tool that provides instant server health insights and log analysis using a single command.
 
